@@ -1,2 +1,2 @@
 # labcollabufrj
-Repositório do Laboratório de Colaboração da UFRJ
+Repositório do Laboratório de Colaboração da UFRJ.
